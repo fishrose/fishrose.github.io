@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fishrose.top/</id>
     <title>鱼香肉丝</title>
-    <updated>2019-06-17T08:59:06.698Z</updated>
+    <updated>2019-06-17T09:07:02.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fishrose.top/"/>
     <link rel="self" href="https://fishrose.top//atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>记录不错的书籍 &amp; 阅读打卡</subtitle>
     <logo>https://fishrose.top//images/avatar.png</logo>
     <icon>https://fishrose.top//favicon.ico</icon>
     <rights>All rights reserved 2019, 鱼香肉丝</rights>
