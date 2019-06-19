@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fishrose.top/</id>
     <title>鱼香肉丝</title>
-    <updated>2019-06-17T16:28:27.701Z</updated>
+    <updated>2019-06-19T10:49:56.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fishrose.top/"/>
     <link rel="self" href="https://fishrose.top//atom.xml"/>
@@ -11,35 +11,34 @@
     <icon>https://fishrose.top//favicon.ico</icon>
     <rights>All rights reserved 2019, 鱼香肉丝</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://fishrose.top//post/hello-gridea</id>
-        <link href="https://fishrose.top//post/hello-gridea">
+        <title type="html"><![CDATA[疯传:让你的产品、思想、行为像病毒一样入侵]]></title>
+        <id>https://fishrose.top//post/9kKPtgVMz</id>
+        <link href="https://fishrose.top//post/9kKPtgVMz">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <updated>2019-06-17T16:32:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>💡  你做了一款很好的产品，但是不知道怎么去推广传播，你该怎么办？<br>
+✍️  在 <strong>《疯传》</strong> 这本书中，作者提出了六大元素，可以帮助你的产品，实现疯传的效果！</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="http://hvenotes.fehey.com/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>𝖶𝗂𝗇𝖽𝗈𝗐𝗌</strong> 或 <strong>𝖬𝖺𝖼𝖮𝖲</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <content type="html"><![CDATA[<p>💡  你做了一款很好的产品，但是不知道怎么去推广传播，你该怎么办？<br>
+✍️  在 <strong>《疯传》</strong> 这本书中，作者提出了六大元素，可以帮助你的产品，实现疯传的效果！</p>
+<!-- more --> 
+<blockquote>
+<p>在苹果公司每发布一款电子产品的前夕，粉丝们都会在专卖店门口彻夜排队、人头攒动；可口可乐只有一种口味，却可以畅销一百多年而长盛不衰，足迹遍及世界的每一个角落；迈克尔·杰克逊在世的时候，他的演唱会门票万金而难求其一；2013年“双十一”天猫实现单天销售额突破350亿元，仅小米手机一家就实现了5.53亿元的销量。是什么让他们如此流行，这一切的背后又有着什么样的秘密？</p>
+</blockquote>
+<p>注：上文节选自本书序言”让你的品牌像病毒一样疯传”</p>
+<h2 id="内容简介">内容简介</h2>
+<p>《疯传:让你的产品、思想、行为像病毒一样入侵》内容简介：是什么让事物变得流行？从买轿车、买衣服、吃三明治，到给孩子取名字，你是否知道为什么某些产品会大卖，某些故事被人们口口相传，某些电子邮件更易被转发，或者某些视频链接被疯狂地点击，某些谣言更具传播力，某些思想和行为像病毒一样入侵你的大脑……《疯传:让你的产品、思想、行为像病毒一样入侵》这本书将为你揭示这些口口相传和社会传播背后的科学秘密，并且告诉你如何将产品、思想、行为设计成具有感染力和传播力的内容。
+无论你是大公司的管理者，还是努力提高公司知名度的小企业主，无论你是官员或政客，还是非营利性组织的工作者，只要你想传递信息，就请翻翻《疯传:让你的产品、思想、行为像病毒一样入侵》这本书。宾夕法尼亚大学沃顿商学院的市场营销学教授乔纳•伯杰通过多年的调查和实验研究，将在《疯传:让你的产品、思想、行为像病毒一样入侵》这本书里以故事讲述的方式告诉你让所有类型的产品、思想、行为疯狂传播的科学方法。</p>
+<h2 id="作者简介">作者简介</h2>
+<p>乔纳•伯杰（Jonah Berger），现任宾夕法尼亚大学沃顿商学院市场营销学教授。他在全球顶级学术刊物上发表了大量关于营销学的文章，另有诸多广受欢迎的文章登载在《纽约时报》、《华尔街日报》、《华盛顿邮报》、《科学》、《哈佛商业评论》、《连线》、《商业周刊》和《快公司》等刊物上。他的研究及想法被《纽约时报杂志》评为年度最佳新概念之一。伯杰在学术和教学上都获得了诸多的荣誉，其中包括沃顿商学院授予的“钢铁教授”（Iron Prof.）称号。他目前居住在美国宾夕法尼亚州的费城市。</p>
+<hr>
+<p><img src="https://img.fishrose.top/img/fengchuang.jpg" alt=""></p>
+<p>评分: 7.3<br>
+作者: 乔纳·伯杰 (Jonah Berger)<br>
+译者: 刘生敏 / 廖建桥<br>
+ISBN: 9787121210204</p>
+<h3 id="下载地址">下载地址👇</h3>
+<p><a href="https://fishrose.pipipan.com/fs/18943796-383570598" target="_blank">皮皮盘</a> | <a href="http://skpan.com/fs/dfi7sh5ro6secfab7/" target="_blank">Yunfile盘</a></p>
 ]]></content>
     </entry>
 </feed>
