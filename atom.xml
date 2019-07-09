@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://fishrose.top/</id>
+    <id>https://fishrose.top</id>
     <title>鱼香肉丝</title>
-    <updated>2019-07-09T11:36:44.546Z</updated>
+    <updated>2019-07-09T11:46:39.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://fishrose.top/"/>
-    <link rel="self" href="https://fishrose.top//atom.xml"/>
+    <link rel="alternate" href="https://fishrose.top"/>
+    <link rel="self" href="https://fishrose.top/atom.xml"/>
     <subtitle>记录不错的书籍 &amp; 阅读打卡</subtitle>
-    <logo>https://fishrose.top//images/avatar.png</logo>
-    <icon>https://fishrose.top//favicon.ico</icon>
+    <logo>https://fishrose.top/images/avatar.png</logo>
+    <icon>https://fishrose.top/favicon.ico</icon>
     <rights>All rights reserved 2019, 鱼香肉丝</rights>
     <entry>
         <title type="html"><![CDATA[2019年下半年职场年轻人必读三本书单]]></title>
-        <id>https://fishrose.top//post/ycqs5rQ31</id>
-        <link href="https://fishrose.top//post/ycqs5rQ31">
+        <id>https://fishrose.top/post/ycqs5rQ31</id>
+        <link href="https://fishrose.top/post/ycqs5rQ31">
         </link>
         <updated>2019-07-09T10:53:38.000Z</updated>
         <content type="html"><![CDATA[<h2 id="️-书单">✍️ 书单</h2>
@@ -29,8 +29,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[极度专注力：打造高绩效的聪明工作法]]></title>
-        <id>https://fishrose.top//post/1xQxvDV18</id>
-        <link href="https://fishrose.top//post/1xQxvDV18">
+        <id>https://fishrose.top/post/1xQxvDV18</id>
+        <link href="https://fishrose.top/post/1xQxvDV18">
         </link>
         <updated>2019-07-09T10:22:56.000Z</updated>
         <content type="html"><![CDATA[<p>💡 <strong>在充满干扰的现代世界裡，提高生产力的实用手册！</strong><br>
@@ -67,7 +67,7 @@
 <p>克里斯‧贝利　Chris Bailey</p>
 <p>做过为期一年的生产力计画，在那一年内密集研究注意力；也曾为了找出提高生产力的方法，亲身做过数十种实验。目前为止，他为这个主题写过数百篇文章，获得《纽约时报》、《赫芬顿邮报》、《纽约杂志》、《哈佛商业评论》、TED、《快公司》、《生活骇客》（Lifehacker）知识网站等诸多媒体的报导，著有《最有生产力的一年》（The Productivity Project），现居加拿大安大略省京士顿市。</p>
 <hr>
-<p><img src="https://fishrose.top//post-images/1562665733622.jpg" alt=""></p>
+<p><img src="https://fishrose.top/post-images/1562665733622.jpg" alt=""></p>
 <p>评分: 无<br>
 作者: 克里斯‧贝利<br>
 译者: 洪慧芳<br>
@@ -76,8 +76,8 @@ ISBN: 9789864797592</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[心态致胜：全新成功心理学]]></title>
-        <id>https://fishrose.top//post/3uCPyrEo3</id>
-        <link href="https://fishrose.top//post/3uCPyrEo3">
+        <id>https://fishrose.top/post/3uCPyrEo3</id>
+        <link href="https://fishrose.top/post/3uCPyrEo3">
         </link>
         <updated>2019-07-09T09:22:35.000Z</updated>
         <content type="html"><![CDATA[<p>💡  500万人因此改变一生！<br>
@@ -115,7 +115,7 @@ ISBN: 9789864797592</p>
 <p>杜维克的研究广受《时代》（Time）杂志、《O》杂志、《纽约客》（The New Yorker）杂志、《当代心理学》（Psychology Today）杂志、《纽约时报》（The New York Times）、《华盛顿邮报》（The Washington Post）、《波士顿环球报》（The Boston Globe）等重要学术与大众报章杂志报导，她也上过《今日秀》（The Today Show）和《20／20》等全美知名电视节目。</p>
 <p>现与丈夫居住在加州帕罗奥图市。读者可造访她的网站：<a href="http://mindsetonline.com">mindsetonline.com</a> ，以及脸书专页：<a href="http://www.facebook.com/CarolDweckAuthor">Facebook</a></p>
 <hr>
-<p><img src="https://fishrose.top//post-images/1562664652484.jpg" alt=""></p>
+<p><img src="https://fishrose.top/post-images/1562664652484.jpg" alt=""></p>
 <p>评分: 无<br>
 作者: 卡萝‧杜维克<br>
 译者: 李芳龄<br>
@@ -124,8 +124,8 @@ ISBN: 9789864791897</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[与成功有约：高效能人士的七个习惯]]></title>
-        <id>https://fishrose.top//post/fXadL0UhM</id>
-        <link href="https://fishrose.top//post/fXadL0UhM">
+        <id>https://fishrose.top/post/fXadL0UhM</id>
+        <link href="https://fishrose.top/post/fXadL0UhM">
         </link>
         <updated>2019-07-09T09:04:52.000Z</updated>
         <content type="html"><![CDATA[<p>💡  经过近三十年时间，为什么柯维对人类仍有影响力？为什麽 <strong>七个习惯</strong> 依旧实用？<br>
@@ -156,7 +156,7 @@ ISBN: 9789864791897</p>
 <p>柯维的其他重要著作，包括：《成功哪有那么难》、《七个习惯教出优秀的孩子》、《与生活有约》、《与幸福有约》、《与领导有约》、《第八个习惯》、《漫画读通柯维成功学》、《第三选择》以及《让好工作找上你》等。</p>
 <p>二〇一二年七月，柯维过世，但他在领导力、时间管理、效能、成功，甚至爱与家庭关係等领域的教诲，遗留给世人无与伦比的精神资产。</p>
 <hr>
-<p><img src="https://fishrose.top//post-images/1562663996567.jpg" alt=""></p>
+<p><img src="https://fishrose.top/post-images/1562663996567.jpg" alt=""></p>
 <p>评分: 无<br>
 作者: 史蒂芬・柯维<br>
 译者: 顾淑馨<br>
@@ -165,8 +165,8 @@ ISBN: 9789864792290</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[断舍离]]></title>
-        <id>https://fishrose.top//post/c0CQH1nC2</id>
-        <link href="https://fishrose.top//post/c0CQH1nC2">
+        <id>https://fishrose.top/post/c0CQH1nC2</id>
+        <link href="https://fishrose.top/post/c0CQH1nC2">
         </link>
         <updated>2019-06-27T07:42:33.000Z</updated>
         <content type="html"><![CDATA[<p>💡  清空杂念，人生从此提效<strong>30%</strong><br>
@@ -185,7 +185,7 @@ ISBN: 9789864792290</p>
 <p>生于东京，日本早稻田大学文学部毕业，大学期间开始学习瑜伽，并通过瑜伽参透了放下心中执念的修行哲学“断行，舍行，离行”，随后便致力于提倡以这种概念为基础的、任何人都能亲身实践的新整理术“断舍离”，通过对日常家居环境的收拾整理，改变意识，脱离物欲和执念，过上自由舒适的生活。
 从2000年起，以杂物管理咨询师的身份在日本各地举行断舍离讲座，引起日本 NHK、TBS、东京电视台、《每日新闻》、《日本经济新闻》等各大媒体竞相采访，令断舍离讲座成为社会流行话题，掀起了一轮又一轮全民断舍离的热潮，参加讲座的学员也日益增多。</p>
 <hr>
-<p><img src="https://fishrose.top//post-images/1561621501838.jpg" alt=""></p>
+<p><img src="https://fishrose.top/post-images/1561621501838.jpg" alt=""></p>
 <p>评分: 7.4<br>
 作者: 山下英子<br>
 译者: 吴倩<br>
@@ -196,8 +196,8 @@ ISBN: 9787807639817</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[富爸爸穷爸爸（最新修订版）]]></title>
-        <id>https://fishrose.top//post/5DZmQE2bd</id>
-        <link href="https://fishrose.top//post/5DZmQE2bd">
+        <id>https://fishrose.top/post/5DZmQE2bd</id>
+        <link href="https://fishrose.top/post/5DZmQE2bd">
         </link>
         <updated>2019-06-21T13:57:49.000Z</updated>
         <content type="html"><![CDATA[<p>💡  <strong>“富爸爸”</strong> 系列已发行109个国家和地区，总销量超过3500万册！<br>
@@ -215,7 +215,7 @@ ISBN: 9787807639817</p>
 <p>1977年，罗伯特·清崎创建了一家生产尼龙钱包的公司，开始自己的商业生涯，大获成功。他经历了三次商海沉浮。1985年，第三次成为百万富翁后，他离开商界，与人创建了一家生意投资公司，在全世界范围内教授生意和投资课程。他常年主持理财和投资教育的课程，还开发了一种教育玩具——《富爸爸现金流》游戏，帮助人们学会原来只有富人才懂得的金钱游戏。</p>
 <p>莎伦·莱希特，一名注册会计师，又是玩具业和出版业的资深经理和咨询专家。她参与创造了一本电子书——《会说话的书》，多年来一直致力于青少年的教育事业。她与清崎一起创作了《富爸爸穷爸爸》，将注意力转向现行教育体制所忽视的财商教育上，帮助人们提高财商，改善财务状况。</p>
 <hr>
-<p><img src="https://fishrose.top//post-images/1561485716708.jpg" alt=""></p>
+<p><img src="https://fishrose.top/post-images/1561485716708.jpg" alt=""></p>
 <p>评分: 8.5<br>
 作者: 罗伯特·清崎 / 莎伦·莱希特<br>
 译者: 萧明<br>
@@ -226,8 +226,8 @@ ISBN: 9787541138126</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[小狗钱钱(套装共2册)]]></title>
-        <id>https://fishrose.top//post/v6xG6ZYCl</id>
-        <link href="https://fishrose.top//post/v6xG6ZYCl">
+        <id>https://fishrose.top/post/v6xG6ZYCl</id>
+        <link href="https://fishrose.top/post/v6xG6ZYCl">
         </link>
         <updated>2019-06-21T12:50:21.000Z</updated>
         <content type="html"><![CDATA[<p>💡  理财是人生的必修课，<strong>《小狗钱钱》</strong> 是理财入门的畅销书！<br>
@@ -246,7 +246,7 @@ ISBN: 9787541138126</p>
 <h2 id="作者简介">作者简介</h2>
 <p>博多·舍费尔，1960年9月10日出生在德国科隆，是德国著名的投资家、企业家、演说家以及畅销书作家。从小，博多便目睹了贫穷给人们带来的种种伤害，这让他厌恶贫穷。6岁时，他决心要在30岁时成为百万富翁。16岁时，博多只身远赴美国闯荡。26岁时，他陷入了严重的个人财务危机。然而，凭借坚强的意志和正确的投资理念，博多在30岁时摆脱了债务，获得了成功——这时，凭借个人资产产生的利息，他就可以过上富有的生活。博多决心把他的理财知识传播给更多的人。他开始频频参加电视访谈节目，在世界各地举办讲座并著书立说。他已经帮助欧洲成千上万的人在个人财务问题上取得了巨大的进步，成为欧洲第一理财大师，拥有“欧洲巴菲特”和“欧洲第一金钱教练”的美誉。他的《赢家法则》成为德国最佳畅销书；《小狗钱钱》全球销量逾千万册，也已在中国出版，并受到广大中国读者的喜爱。</p>
 <hr>
-<p><img src="https://fishrose.top//post-images/1561485688538.jpg" alt=""></p>
+<p><img src="https://fishrose.top/post-images/1561485688538.jpg" alt=""></p>
 <p>评分: 9 / 7.5<br>
 作者: 博多·舍费尔 (Schafer B.)<br>
 译者: 王钟欣 / 于茜 / 王景楠<br>
@@ -257,8 +257,8 @@ ISBN: 9787536563582 / 9787544250627</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[疯传:让你的产品、思想、行为像病毒一样入侵]]></title>
-        <id>https://fishrose.top//post/9kKPtgVMz</id>
-        <link href="https://fishrose.top//post/9kKPtgVMz">
+        <id>https://fishrose.top/post/9kKPtgVMz</id>
+        <link href="https://fishrose.top/post/9kKPtgVMz">
         </link>
         <updated>2019-06-17T16:32:30.000Z</updated>
         <content type="html"><![CDATA[<p>💡  你做了一款很好的产品，但是不知道怎么去推广传播，你该怎么办？<br>
@@ -273,7 +273,7 @@ ISBN: 9787536563582 / 9787544250627</p>
 <h2 id="作者简介">作者简介</h2>
 <p>乔纳•伯杰（Jonah Berger），现任宾夕法尼亚大学沃顿商学院市场营销学教授。他在全球顶级学术刊物上发表了大量关于营销学的文章，另有诸多广受欢迎的文章登载在《纽约时报》、《华尔街日报》、《华盛顿邮报》、《科学》、《哈佛商业评论》、《连线》、《商业周刊》和《快公司》等刊物上。他的研究及想法被《纽约时报杂志》评为年度最佳新概念之一。伯杰在学术和教学上都获得了诸多的荣誉，其中包括沃顿商学院授予的“钢铁教授”（Iron Prof.）称号。他目前居住在美国宾夕法尼亚州的费城市。</p>
 <hr>
-<p><img src="https://fishrose.top//post-images/1561485643355.jpg" alt=""></p>
+<p><img src="https://fishrose.top/post-images/1561485643355.jpg" alt=""></p>
 <p>评分: 7.3<br>
 作者: 乔纳·伯杰 (Jonah Berger)<br>
 译者: 刘生敏 / 廖建桥<br>
