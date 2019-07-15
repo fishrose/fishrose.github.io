@@ -1,16 +1,16 @@
 <html>
   <head>
   <meta charset="utf-8" />
-<meta name="description" content="" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>好书珍藏 | 鱼香肉丝</title>
-<link rel="shortcut icon" href="https://fishrose.top/favicon.ico?v=1562786547306">
+<meta name="description" content="记录不错的书籍 & 阅读打卡" />
+<link rel="shortcut icon" href="https://fishrose.top/favicon.ico?v=1563200172467">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://fishrose.top/styles/main.css">
 
 <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
-<script src="https://cdn.bootcss.com/moment.js/2.23.0/moment.min.js"></script>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
 
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-142228194-1"></script>
@@ -29,7 +29,7 @@
       <div class="main-content">
         <div class="site-header">
   <a href="https://fishrose.top">
-  <img class="avatar" src="https://fishrose.top/images/avatar.png?v=1562786547306" alt="">
+  <img class="avatar" src="https://fishrose.top/images/avatar.png?v=1563200172467" alt="">
   </a>
   <h1 class="site-title">
     鱼香肉丝
@@ -81,7 +81,7 @@
 
         <div class="current-tag-container">
             <h2 class="title">
-                标签：#好书珍藏
+                标签：# 好书珍藏
             </h2> 
         </div>
         <div class="post-container">
@@ -91,9 +91,12 @@
         <h2 class="post-title">富爸爸穷爸爸（最新修订版）</h2>
       </a>
       <div class="post-info">
-        <time class="post-time">
-          · 2019-06-21 ·
-        </time>
+        <span>
+          2019-06-21
+        </span>
+        <span>
+          1 min read
+        </span>
         
           <a href="https://fishrose.top/tag/Gboogk" class="post-tag">
             # 好书珍藏
@@ -114,9 +117,12 @@
         <h2 class="post-title">小狗钱钱(套装共2册)</h2>
       </a>
       <div class="post-info">
-        <time class="post-time">
-          · 2019-06-21 ·
-        </time>
+        <span>
+          2019-06-21
+        </span>
+        <span>
+          1 min read
+        </span>
         
           <a href="https://fishrose.top/tag/Gboogk" class="post-tag">
             # 好书珍藏
@@ -137,9 +143,12 @@
         <h2 class="post-title">疯传:让你的产品、思想、行为像病毒一样入侵</h2>
       </a>
       <div class="post-info">
-        <time class="post-time">
-          · 2019-06-18 ·
-        </time>
+        <span>
+          2019-06-18
+        </span>
+        <span>
+          1 min read
+        </span>
         
           <a href="https://fishrose.top/tag/Gboogk" class="post-tag">
             # 好书珍藏
@@ -171,6 +180,44 @@
 
 <script>
   hljs.initHighlightingOnLoad()
+
+  let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+
+  // This should probably be throttled.
+  // Especially because it triggers during smooth scrolling.
+  // https://lodash.com/docs/4.17.10#throttle
+  // You could do like...
+  // window.addEventListener("scroll", () => {
+  //    _.throttle(doThatStuff, 100);
+  // });
+  // Only not doing it here to keep this Pen dependency-free.
+
+  window.addEventListener("scroll", event => {
+    let fromTop = window.scrollY;
+
+    mainNavLinks.forEach((link, index) => {
+      let section = document.getElementById(decodeURI(link.hash).substring(1));
+      let nextSection = null
+      if (mainNavLinks[index + 1]) {
+        nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
+      }
+      console.log('section.offsetHeight', section.offsetHeight);
+      if (section.offsetTop <= fromTop) {
+        if (nextSection) {
+          if (nextSection.offsetTop > fromTop) {
+            link.classList.add("current");
+          } else {
+            link.classList.remove("current");    
+          }
+        } else {
+          link.classList.add("current");
+        }
+      } else {
+        link.classList.remove("current");
+      }
+    });
+  });
+
 </script>
 
       </div>

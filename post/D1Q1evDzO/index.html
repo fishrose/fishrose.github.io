@@ -1,16 +1,16 @@
 <html>
   <head>
     <meta charset="utf-8" />
-<meta name="description" content="" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>刻意练习：如何从新手到大师 | 鱼香肉丝</title>
-<link rel="shortcut icon" href="https://fishrose.top/favicon.ico?v=1562786547306">
+<meta name="description" content="记录不错的书籍 & 阅读打卡" />
+<link rel="shortcut icon" href="https://fishrose.top/favicon.ico?v=1563200172467">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://fishrose.top/styles/main.css">
 
 <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
-<script src="https://cdn.bootcss.com/moment.js/2.23.0/moment.min.js"></script>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
 
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-142228194-1"></script>
@@ -29,7 +29,7 @@
       <div class="main-content">
         <div class="site-header">
   <a href="https://fishrose.top">
-  <img class="avatar" src="https://fishrose.top/images/avatar.png?v=1562786547306" alt="">
+  <img class="avatar" src="https://fishrose.top/images/avatar.png?v=1563200172467" alt="">
   </a>
   <h1 class="site-title">
     鱼香肉丝
@@ -79,16 +79,18 @@
   </div>
 </div>
 
-
         <div class="post-detail">
           <article class="post">
             <h2 class="post-title">
               刻意练习：如何从新手到大师
             </h2>
             <div class="post-info">
-              <time class="post-time">
-                · 2019-07-02 ·
-              </time>
+              <span>
+                2019-07-02
+              </span>
+              <span>
+                1 min read
+              </span>
               
                 <a href="https://fishrose.top/tag/Gboogk" class="post-tag">
                   # 好书珍藏
@@ -96,11 +98,11 @@
               
             </div>
             
-              <div class="post-feature-image" style="background-image: url('https://fishrose.top/post-images/D1Q1evDzO.jpg')">
-              </div>
+              <img class="post-feature-image" src="https://fishrose.top/post-images/D1Q1evDzO.jpg" alt="">
             
-            <div class="post-content">
-              <p>💡  练习就是不断重复吗？<br>
+            <div class="post-content-wrapper">
+              <div class="post-content">
+                <p>💡  练习就是不断重复吗？<br>
 ✍️  不是。不断重复只是“天真的练习”，无法带来进步。“正确的练习”需要好导师、有目标、有反馈……</p>
 <blockquote>
 <p>如果你相信“21天学会C语言”“3天学会弹钢琴”，那么本书不适合你。<br>
@@ -126,6 +128,22 @@ ISBN: 9787111551287</p>
 <h3 id="下载地址">下载地址👇</h3>
 <p><a href="https://fishrose.pipipan.com/fs/18943796-386756629" target="_blank">皮皮盘</a> | <a href="http://skpan.com/fs/1fibsh4ro6see00a4/" target="_blank">Yunfile盘</a>（密码：fishrose.top）</p>
 
+              </div>
+              <div class="toc-container">
+                <ul class="markdownIt-TOC">
+<li>
+<ul>
+<li><a href="#%E5%86%85%E5%AE%B9%E7%AE%80%E4%BB%8B">内容简介</a></li>
+<li><a href="#%E4%BD%9C%E8%80%85%E7%AE%80%E4%BB%8B">作者简介</a>
+<ul>
+<li><a href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80">下载地址👇</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+              </div>
             </div>
           </article>
         </div>
@@ -176,6 +194,44 @@ ISBN: 9787111551287</p>
 
 <script>
   hljs.initHighlightingOnLoad()
+
+  let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+
+  // This should probably be throttled.
+  // Especially because it triggers during smooth scrolling.
+  // https://lodash.com/docs/4.17.10#throttle
+  // You could do like...
+  // window.addEventListener("scroll", () => {
+  //    _.throttle(doThatStuff, 100);
+  // });
+  // Only not doing it here to keep this Pen dependency-free.
+
+  window.addEventListener("scroll", event => {
+    let fromTop = window.scrollY;
+
+    mainNavLinks.forEach((link, index) => {
+      let section = document.getElementById(decodeURI(link.hash).substring(1));
+      let nextSection = null
+      if (mainNavLinks[index + 1]) {
+        nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
+      }
+      console.log('section.offsetHeight', section.offsetHeight);
+      if (section.offsetTop <= fromTop) {
+        if (nextSection) {
+          if (nextSection.offsetTop > fromTop) {
+            link.classList.add("current");
+          } else {
+            link.classList.remove("current");    
+          }
+        } else {
+          link.classList.add("current");
+        }
+      } else {
+        link.classList.remove("current");
+      }
+    });
+  });
+
 </script>
 
       </div>

@@ -1,16 +1,16 @@
 <html>
   <head>
     <meta charset="utf-8" />
-<meta name="description" content="" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>富爸爸穷爸爸（最新修订版） | 鱼香肉丝</title>
-<link rel="shortcut icon" href="https://fishrose.top/favicon.ico?v=1562786547306">
+<meta name="description" content="记录不错的书籍 & 阅读打卡" />
+<link rel="shortcut icon" href="https://fishrose.top/favicon.ico?v=1563200172467">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://fishrose.top/styles/main.css">
 
 <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
-<script src="https://cdn.bootcss.com/moment.js/2.23.0/moment.min.js"></script>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
 
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-142228194-1"></script>
@@ -29,7 +29,7 @@
       <div class="main-content">
         <div class="site-header">
   <a href="https://fishrose.top">
-  <img class="avatar" src="https://fishrose.top/images/avatar.png?v=1562786547306" alt="">
+  <img class="avatar" src="https://fishrose.top/images/avatar.png?v=1563200172467" alt="">
   </a>
   <h1 class="site-title">
     鱼香肉丝
@@ -79,16 +79,18 @@
   </div>
 </div>
 
-
         <div class="post-detail">
           <article class="post">
             <h2 class="post-title">
               富爸爸穷爸爸（最新修订版）
             </h2>
             <div class="post-info">
-              <time class="post-time">
-                · 2019-06-21 ·
-              </time>
+              <span>
+                2019-06-21
+              </span>
+              <span>
+                1 min read
+              </span>
               
                 <a href="https://fishrose.top/tag/Gboogk" class="post-tag">
                   # 好书珍藏
@@ -96,11 +98,11 @@
               
             </div>
             
-              <div class="post-feature-image" style="background-image: url('https://fishrose.top/post-images/5DZmQE2bd.jpg')">
-              </div>
+              <img class="post-feature-image" src="https://fishrose.top/post-images/5DZmQE2bd.jpg" alt="">
             
-            <div class="post-content">
-              <p>💡  <strong>“富爸爸”</strong> 系列已发行109个国家和地区，总销量超过3500万册！<br>
+            <div class="post-content-wrapper">
+              <div class="post-content">
+                <p>💡  <strong>“富爸爸”</strong> 系列已发行109个国家和地区，总销量超过3500万册！<br>
 ✍️  在 <strong>《富爸爸穷爸爸》</strong> 这本书中，清崎以亲身经历的财富故事展示了“穷爸爸”和“富爸爸”截然不同的金钱观和财富观：穷人为钱工作，富人让钱为自己工作！</p>
 <blockquote>
 <p>当我们作为父母建议自己的孩子“去学校，好好学习，找份好工作”时，我们常常只是出于文化习惯才这么做的，大家都认为这么做是对的。但当我遇到罗伯特时，他的思想使我很吃惊。因为被两个父亲培养长大，他被告知要为两个截然不同的目标奋斗。他受过良好教育的父亲建议他为企业工作，而他富有的父亲则建议他拥有自己的企业。两条道路都需要教育，但学习的科目却完全不同。他受过良好教育的父亲鼓励他成为聪明人，而他富有的父亲则鼓励他雇用聪明人。<br>
@@ -123,6 +125,22 @@ ISBN: 9787541138126</p>
 <h3 id="下载地址">下载地址👇</h3>
 <p><a href="https://fishrose.pipipan.com/fs/18943796-383969245" target="_blank">皮皮盘</a> | <a href="http://skpan.com/fs/cf4i8sfh3rco8s8e9/" target="_blank">Yunfile盘</a>（密码：fishrose.top）</p>
 
+              </div>
+              <div class="toc-container">
+                <ul class="markdownIt-TOC">
+<li>
+<ul>
+<li><a href="#%E5%86%85%E5%AE%B9%E7%AE%80%E4%BB%8B">内容简介</a></li>
+<li><a href="#%E4%BD%9C%E8%80%85%E7%AE%80%E4%BB%8B">作者简介</a>
+<ul>
+<li><a href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80">下载地址👇</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+              </div>
             </div>
           </article>
         </div>
@@ -173,6 +191,44 @@ ISBN: 9787541138126</p>
 
 <script>
   hljs.initHighlightingOnLoad()
+
+  let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+
+  // This should probably be throttled.
+  // Especially because it triggers during smooth scrolling.
+  // https://lodash.com/docs/4.17.10#throttle
+  // You could do like...
+  // window.addEventListener("scroll", () => {
+  //    _.throttle(doThatStuff, 100);
+  // });
+  // Only not doing it here to keep this Pen dependency-free.
+
+  window.addEventListener("scroll", event => {
+    let fromTop = window.scrollY;
+
+    mainNavLinks.forEach((link, index) => {
+      let section = document.getElementById(decodeURI(link.hash).substring(1));
+      let nextSection = null
+      if (mainNavLinks[index + 1]) {
+        nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
+      }
+      console.log('section.offsetHeight', section.offsetHeight);
+      if (section.offsetTop <= fromTop) {
+        if (nextSection) {
+          if (nextSection.offsetTop > fromTop) {
+            link.classList.add("current");
+          } else {
+            link.classList.remove("current");    
+          }
+        } else {
+          link.classList.add("current");
+        }
+      } else {
+        link.classList.remove("current");
+      }
+    });
+  });
+
 </script>
 
       </div>
