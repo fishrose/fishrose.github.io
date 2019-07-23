@@ -37,6 +37,13 @@ xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/">
  <changefreq>always</changefreq>
 </url>
 <url>
+ <loc>https://fishrose.top/post/nc91m8kbq</loc>
+ <mobile:mobile type="pc,mobile" />
+ <priority>0.5</priority>
+ <lastmod>2019-07-23</lastmod>
+ <changefreq>always</changefreq>
+</url>
+<url>
  <loc>https://fishrose.top/post/nobrs3xki</loc>
  <mobile:mobile type="pc,mobile" />
  <priority>0.5</priority>
@@ -52,6 +59,13 @@ xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/">
 </url>
 <url>
  <loc>https://fishrose.top/post/miqahbyqk</loc>
+ <mobile:mobile type="pc,mobile" />
+ <priority>0.5</priority>
+ <lastmod>2019-07-23</lastmod>
+ <changefreq>always</changefreq>
+</url>
+<url>
+ <loc>https://fishrose.top/post/ycptjaecy</loc>
  <mobile:mobile type="pc,mobile" />
  <priority>0.5</priority>
  <lastmod>2019-07-23</lastmod>
@@ -108,6 +122,13 @@ xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/">
 </url>
 <url>
  <loc>https://fishrose.top/post/fxadl0uhm</loc>
+ <mobile:mobile type="pc,mobile" />
+ <priority>0.5</priority>
+ <lastmod>2019-07-23</lastmod>
+ <changefreq>always</changefreq>
+</url>
+<url>
+ <loc>https://fishrose.top/post/9iapnifa1</loc>
  <mobile:mobile type="pc,mobile" />
  <priority>0.5</priority>
  <lastmod>2019-07-23</lastmod>
