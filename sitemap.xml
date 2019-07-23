@@ -1,207 +1,203 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/">
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<urlset>
 <url>
- <loc>https://fishrose.top</loc>
- <mobile:mobile type="pc,mobile" />
- <priority>0.5</priority>
- <lastmod>2019-07-23</lastmod>
- <changefreq>always</changefreq>
+<loc><![CDATA[https://fishrose.top/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://fishrose.top/</loc>
- <mobile:mobile type="pc,mobile" />
- <priority>0.5</priority>
- <lastmod>2019-07-23</lastmod>
- <changefreq>always</changefreq>
+<loc><![CDATA[https://fishrose.top/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://fishrose.top/archives</loc>
- <mobile:mobile type="pc,mobile" />
- <priority>0.5</priority>
- <lastmod>2019-07-23</lastmod>
- <changefreq>always</changefreq>
+<loc><![CDATA[https://fishrose.top/archives/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://fishrose.top/tags</loc>
- <mobile:mobile type="pc,mobile" />
- <priority>0.5</priority>
- <lastmod>2019-07-23</lastmod>
- <changefreq>always</changefreq>
+<loc><![CDATA[https://fishrose.top/page/2/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://fishrose.top/post/about</loc>
- <mobile:mobile type="pc,mobile" />
- <priority>0.5</priority>
- <lastmod>2019-07-23</lastmod>
- <changefreq>always</changefreq>
+<loc><![CDATA[https://fishrose.top/page/3/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://fishrose.top/post/nc91m8kbq</loc>
- <mobile:mobile type="pc,mobile" />
- <priority>0.5</priority>
- <lastmod>2019-07-23</lastmod>
- <changefreq>always</changefreq>
+<loc><![CDATA[https://fishrose.top/post/1xQxvDV18/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://fishrose.top/post/nobrs3xki</loc>
- <mobile:mobile type="pc,mobile" />
- <priority>0.5</priority>
- <lastmod>2019-07-23</lastmod>
- <changefreq>always</changefreq>
+<loc><![CDATA[https://fishrose.top/post/1xQxvDV18/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://fishrose.top/post/yjmci6ji0</loc>
- <mobile:mobile type="pc,mobile" />
- <priority>0.5</priority>
- <lastmod>2019-07-23</lastmod>
- <changefreq>always</changefreq>
+<loc><![CDATA[https://fishrose.top/post/3uCPyrEo3/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://fishrose.top/post/miqahbyqk</loc>
- <mobile:mobile type="pc,mobile" />
- <priority>0.5</priority>
- <lastmod>2019-07-23</lastmod>
- <changefreq>always</changefreq>
+<loc><![CDATA[https://fishrose.top/post/3uCPyrEo3/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://fishrose.top/post/ycptjaecy</loc>
- <mobile:mobile type="pc,mobile" />
- <priority>0.5</priority>
- <lastmod>2019-07-23</lastmod>
- <changefreq>always</changefreq>
+<loc><![CDATA[https://fishrose.top/post/49w6mwaq1/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://fishrose.top/post/hywq0enlr</loc>
- <mobile:mobile type="pc,mobile" />
- <priority>0.5</priority>
- <lastmod>2019-07-23</lastmod>
- <changefreq>always</changefreq>
+<loc><![CDATA[https://fishrose.top/post/5DZmQE2bd/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://fishrose.top/post/z7olt5zyy</loc>
- <mobile:mobile type="pc,mobile" />
- <priority>0.5</priority>
- <lastmod>2019-07-23</lastmod>
- <changefreq>always</changefreq>
+<loc><![CDATA[https://fishrose.top/post/9IapNiFa1/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://fishrose.top/post/mjb7o99hf</loc>
- <mobile:mobile type="pc,mobile" />
- <priority>0.5</priority>
- <lastmod>2019-07-23</lastmod>
- <changefreq>always</changefreq>
+<loc><![CDATA[https://fishrose.top/post/9kKPtgVMz/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://fishrose.top/post/d67jgnqtc</loc>
- <mobile:mobile type="pc,mobile" />
- <priority>0.5</priority>
- <lastmod>2019-07-23</lastmod>
- <changefreq>always</changefreq>
+<loc><![CDATA[https://fishrose.top/post/about/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://fishrose.top/post/ycqs5rq31</loc>
- <mobile:mobile type="pc,mobile" />
- <priority>0.5</priority>
- <lastmod>2019-07-23</lastmod>
- <changefreq>always</changefreq>
+<loc><![CDATA[https://fishrose.top/post/c0CQH1nC2/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://fishrose.top/post/1xqxvdv18</loc>
- <mobile:mobile type="pc,mobile" />
- <priority>0.5</priority>
- <lastmod>2019-07-23</lastmod>
- <changefreq>always</changefreq>
+<loc><![CDATA[https://fishrose.top/post/D1Q1evDzO/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://fishrose.top/post/3ucpyreo3</loc>
- <mobile:mobile type="pc,mobile" />
- <priority>0.5</priority>
- <lastmod>2019-07-23</lastmod>
- <changefreq>always</changefreq>
+<loc><![CDATA[https://fishrose.top/post/D67jgnQtc/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://fishrose.top/post/fxadl0uhm</loc>
- <mobile:mobile type="pc,mobile" />
- <priority>0.5</priority>
- <lastmod>2019-07-23</lastmod>
- <changefreq>always</changefreq>
+<loc><![CDATA[https://fishrose.top/post/fXadL0UhM/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://fishrose.top/post/9iapnifa1</loc>
- <mobile:mobile type="pc,mobile" />
- <priority>0.5</priority>
- <lastmod>2019-07-23</lastmod>
- <changefreq>always</changefreq>
+<loc><![CDATA[https://fishrose.top/post/fXadL0UhM/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://fishrose.top/post/d1q1evdzo</loc>
- <mobile:mobile type="pc,mobile" />
- <priority>0.5</priority>
- <lastmod>2019-07-23</lastmod>
- <changefreq>always</changefreq>
+<loc><![CDATA[https://fishrose.top/post/hFXxysY79/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://fishrose.top/post/qzvib9ovr</loc>
- <mobile:mobile type="pc,mobile" />
- <priority>0.5</priority>
- <lastmod>2019-07-23</lastmod>
- <changefreq>always</changefreq>
+<loc><![CDATA[https://fishrose.top/post/HYwQ0enlr/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://fishrose.top/post/hfxxysy79</loc>
- <mobile:mobile type="pc,mobile" />
- <priority>0.5</priority>
- <lastmod>2019-07-23</lastmod>
- <changefreq>always</changefreq>
+<loc><![CDATA[https://fishrose.top/post/HYwQ0enlr/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://fishrose.top/post/49w6mwaq1</loc>
- <mobile:mobile type="pc,mobile" />
- <priority>0.5</priority>
- <lastmod>2019-07-23</lastmod>
- <changefreq>always</changefreq>
+<loc><![CDATA[https://fishrose.top/post/mIqAhBYQk/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://fishrose.top/post/c0cqh1nc2</loc>
- <mobile:mobile type="pc,mobile" />
- <priority>0.5</priority>
- <lastmod>2019-07-23</lastmod>
- <changefreq>always</changefreq>
+<loc><![CDATA[https://fishrose.top/post/mIqAhBYQk/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://fishrose.top/post/5dzmqe2bd</loc>
- <mobile:mobile type="pc,mobile" />
- <priority>0.5</priority>
- <lastmod>2019-07-23</lastmod>
- <changefreq>always</changefreq>
+<loc><![CDATA[https://fishrose.top/post/Mjb7O99hF/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://fishrose.top/post/v6xg6zycl</loc>
- <mobile:mobile type="pc,mobile" />
- <priority>0.5</priority>
- <lastmod>2019-07-23</lastmod>
- <changefreq>always</changefreq>
+<loc><![CDATA[https://fishrose.top/post/nC91m8kBQ/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://fishrose.top/post/9kkptgvmz</loc>
- <mobile:mobile type="pc,mobile" />
- <priority>0.5</priority>
- <lastmod>2019-07-23</lastmod>
- <changefreq>always</changefreq>
+<loc><![CDATA[https://fishrose.top/post/NobRS3xKi/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://github.com/getgridea/gridea</loc>
- <mobile:mobile type="pc,mobile" />
- <priority>0.5</priority>
- <lastmod>2019-07-23</lastmod>
- <changefreq>always</changefreq>
+<loc><![CDATA[https://fishrose.top/post/QzVIB9OvR/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://fishrose.top/atom.xml</loc>
- <mobile:mobile type="pc,mobile" />
- <priority>0.5</priority>
- <lastmod>2019-07-23</lastmod>
- <changefreq>always</changefreq>
+<loc><![CDATA[https://fishrose.top/post/v6xG6ZYCl/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc><![CDATA[https://fishrose.top/post/YcptjAeCY/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc><![CDATA[https://fishrose.top/post/ycqs5rQ31/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc><![CDATA[https://fishrose.top/post/YjMci6jI0/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc><![CDATA[https://fishrose.top/post/YjMci6jI0/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc><![CDATA[https://fishrose.top/post/Z7OlT5Zyy/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc><![CDATA[https://fishrose.top/post/Z7OlT5Zyy/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc><![CDATA[https://fishrose.top/tag/Booklist/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc><![CDATA[https://fishrose.top/tag/Gboogk/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc><![CDATA[https://fishrose.top/tag/Gboogk/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc><![CDATA[https://fishrose.top/tag/Gboogk//page/2/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc><![CDATA[https://fishrose.top/tags/]]></loc>
+<lastmod>2019-07-23</lastmod>
+<changefreq>weekly</changefreq>
 </url>
 </urlset>
